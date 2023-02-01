@@ -1,0 +1,50 @@
+{
+  "posts": [
+    {
+      "title": "React Mastery ",
+      "body": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. It was popularised in the 1960s with the release of Letraset sheets containing Lorem Ipsum passages, and more recently with desktop publishing software like Aldus PageMaker including versions of Lorem Ipsum.",
+      "tags": [
+        "REACT",
+        "JS",
+        "REDUX",
+        "MONGO"
+      ],
+      "id": 5
+    },
+    {
+      "title": "VUE Mastery ",
+      "body": "It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout. The point of using Lorem Ipsum is that it has a more-or-less normal distribution of letters, as opposed to using 'Content here, content here', making it look like readable English. Many desktop publishing packages and web page editors now use Lorem Ipsum as their default model text, and a search ",
+      "tags": [
+        "REACT",
+        "JS",
+        "REDUX",
+        "MONGO"
+      ],
+      "id": 6
+    },
+    {
+      "title": "MySQL WHERE Clause",
+      "body": "WHERE Clause in MySQL is a keyword used to specify the exact criteria of data or rows that will be affected by the specified SQL statement. The WHERE clause can be used with SQL statements like INSERT, UPDATE, SELECT, and DELETE to filter records and perform various operations on the data.\n\nWe looked at how to query data from a database using the SELECT statement in the previous tutorial. The SELECT statement returned all the results from the queried database table.",
+      "tags": [
+        "SQL",
+        "PRISMA",
+        "DB",
+        "MONGO",
+        "MYSQL"
+      ],
+      "id": 7
+    },
+    {
+      "title": "TITLE CHECK",
+      "body": "kjaskd ad kl  ladp kor lsmmdms",
+      "tags": [
+        "js",
+        "css",
+        "html5",
+        "react",
+        "mongo"
+      ],
+      "id": 8
+    }
+  ]
+}
