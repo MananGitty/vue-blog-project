@@ -2,15 +2,5 @@
 
 # blog-project
 
-## Project setup
-
-```
-npm install
-```
-
-### Compiles and hot-reloads for development
-
-```
-
-npm run serve
+This project is made using the firebase , the data that is being inserted and deleted. The data is consistent and is being updated in realtime
 ```
